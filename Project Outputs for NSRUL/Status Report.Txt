@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [NSRUL.PrjPCB]
+   Generated File[NSRUL-Plated.TXT]
+   Generated File[NSRUL.LDP]
+   Generated File[NSRUL.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:24:44 On 2019.4.24
